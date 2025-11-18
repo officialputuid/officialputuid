@@ -1,12 +1,16 @@
-## Oops! Something Went Wrong 😕
-We didn’t receive a proper request from your browser.
+<p><img width="102" src="https://github.githubassets.com/images/mona-loading-dark.gif" alt="GitHub loading GIF"></p>
 
-### What to Do Next:
-- **Refresh the page** and try again.
+### Oops! Something Went Wrong 😕
+Looks like your browser broke up with the server—it just ghosted us!  
 
-### Contact & Links:
-- 📧 [Support](mailto:officialputuid@hack.id)
-- 📝 [Blog](https://blog.psionicprjkt.my.id)
-- 🚀 [Projects](https://psionicprjkt.my.id)
+##### What to Do Next:  
+- **Refresh this page**, because trying again is the best "refresh"-ment plan!  
 
-Thank you for your understanding and patience!
+##### Need Help? Don’t “Cache” Us Unaware:
+<p>
+	<a href="mailto:officialputuid@hack.id">Support (nope)</a> —
+	<a href="https://psionicprjkt.my.id">Blog (maby ded)</a> —
+	<a href=https://blog.psionicprjkt.my.id"">Projects (idk)</a>
+</p>
+
+Thanks for your patience, you’re simply un-bug-lievable. Let’s “code” on and try again! 😄  
